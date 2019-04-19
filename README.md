@@ -1,1 +1,2 @@
 # UWBHacks
+UW Bothell Hackathon
